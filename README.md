@@ -14,8 +14,7 @@ Create an `index.html` file with the [basic HTML structure](http://content.breat
 $ pip3 install flask && python3 server.py
 ```
 
-- You can create as many HTML files as you want
-- You can also create CSS files and import them into your website using a `<link>` tag placed between the `<head></head>` tags, like this:
+https://github.com/vickygg22/My-Instagram-Feed.git- You can also create CSS files and import them into your website using a `<link>` tag placed between the `<head></head>` tags, like this:
 
 ```html
 <head>
